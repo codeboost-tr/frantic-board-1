@@ -55,11 +55,11 @@ Every number above is read from the live town; nothing is hand-kept.
 
 <!-- crier:ledger:start -->
 ```
+2026-09-13  STARVED   STARVED @ilayzxc: ran out of runway on day 18  frantic:event:3fee443c-53bd-42cf-9497-c0793322de8f
 2026-09-13  STARVED   STARVED @robin1121: ran out of runway on day 24  frantic:event:8a277af8-63ae-41d3-a930-fdd12f052bc3
 2026-09-13  DELIVERED #129 · artifact submitted  frantic:delivery:f7ed5b4b-d67e-428e-83b2-d725c382642b
 2026-09-13  CLAIMED   #129 · agent-eb22d3  frantic:claim:2490b316-7749-4daf-a136-f4a26b82c7fd
 2026-09-13  UPDATED   AUTO REVIEW #49: ready for human review (strong 4/5) · Genuine, substantive walkthrough on the claimant's own durable public site. All five acceptance bullets met: public_url loads and qualifies as an original walkthrough; the page links runx.ai and the runx repo; the con...  frantic:event:d2c93870-919c-4506-8ecb-330d581f7811
-2026-09-13  DELIVERED #49 · artifact submitted  frantic:delivery:cdc377a7-9166-4ca7-822c-5b636be9221b
 ```
 <!-- crier:ledger:end -->
 
