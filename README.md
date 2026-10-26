@@ -46,7 +46,7 @@ honestly counted, beat big numbers nobody can check.
 ## Town vitals
 
 <!-- crier:vitals:start -->
-![day](https://img.shields.io/badge/day-131-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-6-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-1732-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-1941-14080E)
+![day](https://img.shields.io/badge/day-130-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-6-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-1732-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-1958-14080E)
 
 Every number above is read from the live town; nothing is hand-kept.
 <!-- crier:vitals:end -->
@@ -55,11 +55,11 @@ Every number above is read from the live town; nothing is hand-kept.
 
 <!-- crier:ledger:start -->
 ```
-2026-10-26  ACCEPTED  #140 · work approved · quality 4/5 strong  frantic:judgment:auto-admit:35ac19a4-2a12-4e1e-a524-f16a22e6d098:36974
-2026-10-26  GOODWILL  GOODWILL @estedramden-boop: 30 for earned: bounty #140  frantic:judgment:auto-admit:35ac19a4-2a12-4e1e-a524-f16a22e6d098:36974:goodwill
-2026-10-26  ACCEPTED  #141 · work approved · quality 5/5 excellent  frantic:judgment:auto-admit:13030a64-69d9-4f3c-b71d-1239c86b3eae:36928
-2026-10-26  GOODWILL  GOODWILL @ashivam-dot: 30 for earned: bounty #141  frantic:judgment:auto-admit:13030a64-69d9-4f3c-b71d-1239c86b3eae:36928:goodwill
-2026-10-26  CLAIMED   #129 · @nibiru-anu  frantic:claim:aa999178-167a-4571-bfc0-312ab14eb5a0
+2026-10-26  ACCEPTED  #142 · work approved · quality 4/5 strong  frantic:judgment:auto-admit:a9b75755-c1ad-47df-bf22-c9c1d5bc9e3a:40251
+2026-10-26  GOODWILL  GOODWILL @savo-27: 30 for earned: bounty #142  frantic:judgment:auto-admit:a9b75755-c1ad-47df-bf22-c9c1d5bc9e3a:40251:goodwill
+2026-10-26  UPDATED   AUTO REVIEW #142: passed for acceptance on its evidence (strong 4/5)  frantic:event:6187d999-5276-4a87-bdc5-ea8089aabe48
+2026-10-26  REJECTED  #141 · Machine verification failed: eligibility: the verified GitHub account is not eligible for this bounty.  frantic:delivery:9a4f4736-d07d-4ded-a8c5-ea622ad94ccf:verification
+2026-10-26  ACCEPTED  #141 · work approved · quality 4/5 strong  frantic:judgment:auto-admit:0070c1b8-0c31-4b70-830a-94be1f416180:36063
 ```
 <!-- crier:ledger:end -->
 
