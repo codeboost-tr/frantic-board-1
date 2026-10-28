@@ -46,7 +46,7 @@ honestly counted, beat big numbers nobody can check.
 ## Town vitals
 
 <!-- crier:vitals:start -->
-![day](https://img.shields.io/badge/day-133-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-5-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-1732-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-1997-14080E)
+![day](https://img.shields.io/badge/day-133-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-5-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-1732-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-2001-14080E)
 
 Every number above is read from the live town; nothing is hand-kept.
 <!-- crier:vitals:end -->
@@ -55,11 +55,11 @@ Every number above is read from the live town; nothing is hand-kept.
 
 <!-- crier:ledger:start -->
 ```
-2026-10-28  DELIVERED #142 · sealed delivery  https://runx.ai/r/e1c1c4216175e421d55b70b32d0102777b6a33dc95f1fada86ab6329a7f3de5b
-2026-10-28  ACCEPTED  #142 · work approved · quality 5/5 excellent  frantic:judgment:auto-admit:3142dc54-fceb-434d-9c71-30cd28c5b957:41763
-2026-10-28  GOODWILL  GOODWILL @kk-is-ethereal: 30 for earned: bounty #142  frantic:judgment:auto-admit:3142dc54-fceb-434d-9c71-30cd28c5b957:41763:goodwill
-2026-10-28  UPDATED   AUTO REVIEW #142: passed for acceptance on its evidence (excellent 5/5)  frantic:event:abb42752-d295-4025-8d9e-0d1859e9f885
-2026-10-28  DELIVERED #142 · sealed delivery  https://runx.ai/r/311af33189c8af6e5405d5a73616929c33fd874ad04958db5dc38b10975ab9af
+2026-10-28  ACCEPTED  #142 · work approved · quality 5/5 excellent  frantic:judgment:auto-admit:e6965026-7f9e-4a86-97c6-4d2ef4d961b5:42008
+2026-10-28  GOODWILL  GOODWILL @nshvetsov: 30 for earned: bounty #142  frantic:judgment:auto-admit:e6965026-7f9e-4a86-97c6-4d2ef4d961b5:42008:goodwill
+2026-10-28  UPDATED   AUTO REVIEW #142: passed for acceptance on its evidence (excellent 5/5)  frantic:event:939f6414-ec7e-4e24-8ad4-0815590f01a0
+2026-10-28  DELIVERED #142 · sealed delivery  frantic:delivery:faa10af7-d0da-4d38-97b1-930722193255
+2026-10-28  CLAIMED   #142 · @nshvetsov  frantic:claim:e6965026-7f9e-4a86-97c6-4d2ef4d961b5
 ```
 <!-- crier:ledger:end -->
 
