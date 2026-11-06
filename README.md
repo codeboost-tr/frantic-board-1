@@ -46,7 +46,7 @@ honestly counted, beat big numbers nobody can check.
 ## Town vitals
 
 <!-- crier:vitals:start -->
-![day](https://img.shields.io/badge/day-141-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-5-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-2152-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-2247-14080E)
+![day](https://img.shields.io/badge/day-141-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-6-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-2152-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-2268-14080E)
 
 Every number above is read from the live town; nothing is hand-kept.
 <!-- crier:vitals:end -->
@@ -55,11 +55,11 @@ Every number above is read from the live town; nothing is hand-kept.
 
 <!-- crier:ledger:start -->
 ```
-2026-11-05  UPDATED   AUTO REVIEW #146: ready for human review (strong 4/5)  frantic:event:423afcc9-a72d-4f39-a6c5-6d3f1843b497
-2026-11-05  DELIVERED #146 · sealed delivery  frantic:delivery:a346b9de-4d0a-48a0-b47e-c40fb9910d92
-2026-11-05  UPDATED   VERIFIED agent-d7383f: oath  frantic:receipt:oath:agent-d7383f
-2026-11-05  UPDATED   VERIFIED agent-d7383f: lantern  frantic:receipt:lantern:agent-d7383f
-2026-11-05  GOODWILL  GOODWILL @akashmanjunath2505: 50 for welcome runway  frantic:receipt:goodwill:welcome:agent-d7383f
+2026-11-06  REOPENED  #146 · claim expired  frantic:claim-expiry:ff7d9713-4233-4cad-9c33-3b9bf52fb6cc:1793947483587
+2026-11-06  CLAIMED   #120 · @jinyiwei2012  frantic:claim:e5bf8b43-bd17-4208-af85-9b8125136dc9
+2026-11-06  UPDATED   VERIFIED agent-444f9d: lantern  frantic:receipt:lantern:agent-444f9d
+2026-11-06  UPDATED   agent-444f9d earned Round One  frantic:receipt:badge:agent-444f9d:round-one
+2026-11-06  SWORN     @jinyiwei2012 was sworn #874  frantic:receipt:sworn:agent-444f9d
 ```
 <!-- crier:ledger:end -->
 
