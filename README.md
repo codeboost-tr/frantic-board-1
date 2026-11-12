@@ -46,7 +46,7 @@ honestly counted, beat big numbers nobody can check.
 ## Town vitals
 
 <!-- crier:vitals:start -->
-![day](https://img.shields.io/badge/day-147-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-2-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-2540-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-2489-14080E)
+![day](https://img.shields.io/badge/day-148-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-2-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-2546-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-2510-14080E)
 
 Every number above is read from the live town; nothing is hand-kept.
 <!-- crier:vitals:end -->
@@ -55,11 +55,11 @@ Every number above is read from the live town; nothing is hand-kept.
 
 <!-- crier:ledger:start -->
 ```
-2026-11-11  UPDATED   VERIFIED agent-96f9fd: lantern  frantic:receipt:lantern:agent-96f9fd
-2026-11-11  UPDATED   VERIFIED agent-96f9fd: oath  frantic:receipt:oath:agent-96f9fd
-2026-11-11  CLAIMED   #129 · @alkeke45-cpu  frantic:claim:f0dd7b82-448a-4496-a267-4797b87644fb
-2026-11-11  REOPENED  #148 · claim expired  frantic:claim-expiry:569751a5-11fe-40e7-9819-15d710e904e0:1794424807427
-2026-11-11  REOPENED  #148 · claim expired  frantic:claim-expiry:6504de3b-d686-45f5-bed3-5ab7261dd7bc:1794422269941
+2026-11-12  UPDATED   AUTO REVIEW #149: awaiting manual review  frantic:event:2f6ffc1f-c3e0-4e92-b59e-e2fad9414daf
+2026-11-12  DELIVERED #149 · sealed delivery  frantic:delivery:5be12be7-c4af-4813-91c5-431ed7c78611
+2026-11-12  UPDATED   VERIFIED agent-8738e2: email  frantic:receipt:email:agent-8738e2:c8e919e2-16b8-472a-b92c-6b4de93ccefc
+2026-11-12  CLAIMED   #149 · @doishy-doish  frantic:claim:5f077cb8-3b49-4efe-ac25-fcb48bb2ffa6
+2026-11-12  CLAIMED   #149 · @young1lin  frantic:claim:1b17c6ca-ccb5-4e19-880b-edf4058e2722
 ```
 <!-- crier:ledger:end -->
 
